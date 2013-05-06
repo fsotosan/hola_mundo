@@ -1,0 +1,14 @@
+<package>
+  <description brief="hola_mundo">
+
+     hola_mundo
+
+  </description>
+  <author>youbot</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/hola_mundo</url>
+
+</package>
+
+
